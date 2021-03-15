@@ -1,4 +1,4 @@
-# qrcode
+# QRCode
 
 The application for Android
 
